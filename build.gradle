@@ -37,7 +37,7 @@ buildscript {
         maven {
             url 'https://oss.sonatype.org/content/repositories/snapshots'
         }
-        
+
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.0'
@@ -58,7 +58,7 @@ allprojects {
         mavenCentral()
         maven { url 'http://dl.bintray.com/lordtao/maven' }
         maven { url 'https://jitpack.io' }
-        
+
     }
 }
 

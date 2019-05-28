@@ -34,32 +34,7 @@
         "width": 650,
         "height": 432
       },
-    "images": [
-      {
-        "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSz6-DpHhDhwKKc9IsBVxctIsTLWzPss0z6-lLaHRtWZBOHoSxA",
-        "main_color": "#f4b541",
-        "width": 742,
-        "height": 650
-      },
-      {
-        "href": "https://www.ingredientsnetwork.com/47/pdcnewsitem/07/34/66/natural.jpeg",
-        "main_color": "#f49a41",
-        "width": 650,
-        "height": 975
-      },
-      {
-        "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
-        "main_color": "#f46a41",
-        "width": 650,
-        "height": 914
-      },
-      {
-        "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
-        "main_color": "#41aff4",
-        "width": 650,
-        "height": 478
-      }
-    ],
+    "images": null
     "content": null
   }
 ],

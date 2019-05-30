@@ -1,4 +1,5 @@
-{
+{ "categories" :
+ {
   "document_id": "18g3wjklzvj",
   "title": "Real thua thảm Cúp C1: Học MU - Solskjaer, “Ông trùm” Perez chốt huyền thoại làm HLV",
   "description": "3 thất bại liên tiếp tại Bernabeu đã phá hủy mùa giải của Real Madrid. Không còn động lực cạnh tranh trong chặng đường còn lại, Chủ tịch Perez đã sẵn sàng biến phần còn lại mùa giải thành một sự thử nghiệm.",
@@ -164,4 +165,6 @@
       }
     }
   ]
+}
+ 
 }
